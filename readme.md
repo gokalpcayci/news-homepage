@@ -1,4 +1,6 @@
 
+live server: https://ephemeral-praline-5685b9.netlify.app/
+
 ## Usage
 
 Install dependencies
